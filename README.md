@@ -1,4 +1,4 @@
-STW-Collection
+STW-Amazing Collection
 ==============
 
 Scrap The Web Collection; [blog](https://tapaswenipathak.wordpress.com/2014/09/05/scraping-with-scrapy-part-1/) [posts](https://tapaswenipathak.wordpress.com/2014/09/06/scraping-with-scrapy-part-2/).
